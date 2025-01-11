@@ -6,8 +6,10 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a href="#" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="aj.jahed1993@gmail.com" title="gmail"><img width="22" src="https://github.com/ali-jahed/ali-jahed/blob/main/images/gmail.png?raw=true"> Gmail</a></code>
+  <code><a href="www.linkedin.com/in/ali-jahed-6510a8248" title="Linkdin Profile"><img width="22" src="https://raw.githubusercontent.com/ali-jahed/ali-jahed/b56e776efed553503c81aad65b91d0a02e4c76c9/images/linkedin.svg"> Linkdin</a></code>
+  <code><a href="https://x.com/M4sih_93" title="tweeter Profile"><img width="22" src="https://github.com/ali-jahed/ali-jahed/blob/main/images/x.png?raw=true"> X</a></code>
+  <code><a href="https://t.me/M4sih_93" title="telegram Profile"><img width="22" src="https://github.com/ali-jahed/ali-jahed/blob/main/images/telegram.png?raw=true"> Telegram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -38,12 +40,14 @@
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Bootstrap" height="25" src="https://github.com/user-attachments/assets/e0876a08-8196-4933-9380-9d0e69f96a33"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="pycharm" height="25" src="https://raw.githubusercontent.com/ali-jahed/ali-jahed/a5b5ad12331994f0495f3c200ec1ef83eac63cac/images/PyCharm_Icon.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
 </p>
 <hr>
 
