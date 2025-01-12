@@ -56,7 +56,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=ali-jahed&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-jahed&hide_progress=true&theme=react-dark&bg_color=20232a&" />
     </a>
   </div>
   <br>
