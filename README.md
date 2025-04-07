@@ -41,9 +41,8 @@
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Bootstrap" height="25" src="https://github.com/user-attachments/assets/e0876a08-8196-4933-9380-9d0e69f96a33"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+   <code><img title="Tailwind" height="25" src="https://github.com/ali-jahed/ali-jahed/blob/main/Tailwind%20CSS%20Icon.png?raw=true"></code>
+  <code><img title="react-js" height="25" src="https://github.com/ali-jahed/ali-jahed/blob/main/react-js-icon.png?raw=true"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="pycharm" height="25" src="https://raw.githubusercontent.com/ali-jahed/ali-jahed/a5b5ad12331994f0495f3c200ec1ef83eac63cac/images/PyCharm_Icon.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
